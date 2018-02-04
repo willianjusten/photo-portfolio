@@ -1457,7 +1457,7 @@ body {
 
 /* Intro */
 #intro {
-  background: url("images/overlay.png"), url("../../images/ship.jpg");
+  background: url("images/overlay.png"), url("../../images/florest.jpeg");
   background-size: 256px 256px, cover;
   background-attachment: fixed, fixed;
   background-position: top left, bottom center;
@@ -1471,14 +1471,14 @@ body {
 
 /* One */
 #one {
-  background: url("images/overlay.png"), url("../../images/one.jpg");
+  background: url("images/overlay.png"), url("../../images/castle.jpeg");
   background-size: 256px 256px, cover;
   background-attachment: fixed, fixed;
   background-position: top left, center center; }
 
 /* Two */
 #two {
-  background: url("images/overlay.png"), url("../../images/two.jpg");
+  background: url("images/overlay.png"), url("../../images/snow.jpeg");
   background-size: 256px 256px, cover;
   background-attachment: fixed, fixed;
   background-position: top left, center center; }
